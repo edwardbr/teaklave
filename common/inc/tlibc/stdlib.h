@@ -153,7 +153,7 @@ void *  _TLIBC_CDECL_ alloca(size_t);
 // ocall
 int setenv(const char *, const char *, int);
 int unsetenv(const char *);
-char * getenv(const char *, char *, size_t);
+// char * getenv(const char *, char *, size_t);
 
 __END_DECLS
 

@@ -28,6 +28,7 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. */
 #define _SCHED_H_
 
 #include <sys/cdefs.h>
+#include <sys/_types.h>
 #include <sys/types.h>
 
 typedef struct {
